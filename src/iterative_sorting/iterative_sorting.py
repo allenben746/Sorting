@@ -1,4 +1,4 @@
- TO-DO: Complete the selection_sort() function below 
+#  TO-DO: Complete the selection_sort() function below 
 def selection_sort( array ):
     # loop through n-1 elements
     for i in range(0, len(array) - 1):
